@@ -6,7 +6,7 @@ It uses [SUSI.AI](https://susi.ai/) as it's primary personal assistant.
 ## Why SUSI-Terminal?
 
 SUSI is an intelligent Open Source AI that is built to do several tasks.
-Using SUSI.AI's API and the power of Node.JS we try to built a powerful 
+Using SUSI.AI's API and the power of Node.JS we try to build a powerful 
 personal assistant for Linux. This assistant will be capable of doing several 
 tasks. Searching , Quering and Playing Music are just some of them.
 
